@@ -1,0 +1,14 @@
+{
+    "name": "administrator/hd851",
+    "description": "zhanglanchun1234/hd851",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhang",
+            "email": "zhang@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
